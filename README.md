@@ -39,6 +39,3 @@ Styling:   TailwindCSS, SCSS, Figma
 Testing:   Jest, React Testing Library  
 Tools:     Git, Vite, Webpack
 
-<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=shainsethi&show_icons=true&theme=radical" height="180"/> <img src="https://github-readme-stats.vercel.app/api/top-langs?username=shainsethi&layout=compact&theme=radical" height="180"/> </p> <p align="center"> <img src="https://github-readme-streak-stats.herokuapp.com/?user=shainsethi&theme=radical" height="180" /> </p>
-
-<p align="center"> <img src="https://github-profile-trophy.vercel.app/?username=shainsethi&theme=monokai&margin-w=10&column=7" /> </p> ```
