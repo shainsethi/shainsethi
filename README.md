@@ -25,7 +25,7 @@ Building scalable products with clean UI, solid architecture & a pinch of AI
 - 📊 Experienced in **dashboards, data visualization & analytics-heavy UIs**  
 - ⚙️ Comfortable working across **frontend, backend, databases & CI/CD pipelines**  
 - 🎯 Focused on **clean architecture, performance & great UX**
-- ☕ Occasionally break production — but always fix it before stand-up 😄  
+- ☕ Occasionally break production - but always fix it before stand-up 😄  
 
 🌐 All projects: **https://shainsethi.github.io**
 
