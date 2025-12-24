@@ -1,5 +1,8 @@
-<h1 align="center">Hey there 👋 I'm Shain</h1>
-<h3 align="center">Full Stack Developer | React ⚛️ Node 💻 TypeScript 🦕 | Writing Clean, Scalable Code</h3>
+<h1 align="center">Hey there 👋 I'm Shain Sethi</h1>
+<h3 align="center">
+Full Stack Developer | React ⚛️ TypeScript 🦕 Node.js 💻 <br/>
+Building scalable products with clean UI, solid architecture & a pinch of AI
+</h3>
 
 <p align="center">
   <a href="https://shainsethi.github.io" target="_blank">
@@ -18,24 +21,44 @@
 
 ---
 
-### 🧑‍💻 About Me
+## 🧑‍💻 About Me
 
-- 🚀 Currently building with **Next.js**, **TypeScript**, and **PostgreSQL**
-- 🧠 Learning more about **DevOps** & **Performance Optimization**
-- 🛠️ I like clean code, clean UIs, and clean CSS (but tailwind > everything)
-- 👨‍💻 All projects live at: [shainsethi.github.io](https://shainsethi.github.io)
-- ☕ I break production builds occasionally—but only before coffee
+- 🚀 Full-stack developer with **2+ years of experience** building scalable web apps  
+- 🧠 Currently building **AI-powered SaaS products** & internal workflow automation tools  
+- 📊 Experienced in **dashboards, data visualization & analytics-heavy UIs**  
+- ⚙️ Comfortable working across **frontend, backend, databases & CI/CD pipelines**  
+- 🎯 Focused on **clean architecture, performance & great UX**
+- ☕ Occasionally break production — but always fix it before stand-up 😄  
+
+🌐 All projects: **https://shainsethi.github.io**
 
 ---
 
-### 🔧 Tech Stack
+## 🔧 Tech Stack
 
 ```ts
-Frontend:  React, Next.js, Redux, Angular  
-Backend:   Node.js, Express, Firebase  
-DB:        PostgreSQL, MongoDB  
-DevOps:    Docker, GitHub Actions  
-Styling:   TailwindCSS, SCSS, Figma  
-Testing:   Jest, React Testing Library  
-Tools:     Git, Vite, Webpack
+Frontend:
+  React, Next.js, TypeScript, Redux, Angular
+  MUI, Recharts, Tailwind CSS, SCSS
 
+Backend:
+  Node.js, Express, FastAPI
+  REST APIs, GraphQL
+
+Databases:
+  PostgreSQL, MongoDB, Firebase
+
+DevOps & Cloud:
+  Docker, GitHub Actions, CI/CD
+  AWS (EC2, basic networking), Nginx
+
+AI & Data:
+  LLM APIs, AI-driven workflows
+  Data wrangling & aggregation
+
+Testing:
+  Jest, React Testing Library
+
+Tools:
+  Git, Vite, Webpack, Postman
+  Figma, Overleaf
