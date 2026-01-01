@@ -6,9 +6,9 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1200&color=6366F1&center=true&vCenter=true&width=520&lines=Building+Scalable+Web+Applications;Clean+Architecture+%26+UI%2FUX+Focused;Exploring+AI-powered+SaaS)](https://git.io/typing-svg)
 
 <p>
-  <a href="https://shainsethi.github.io">Portfolio</a> •
+  <!-- <a href="https://shainsethi.github.io">Portfolio</a> • -->
   <a href="https://www.linkedin.com/in/shain-sethi">LinkedIn</a> •
-  <a href="mailto:shainsethi1000@gmail.com">Email</a>
+  <!-- <a href="mailto:shainsethi1000@gmail.com">Email</a> -->
 </p>
 
 <img src="https://komarev.com/ghpvc/?username=shainsethi&label=Profile%20Views&style=flat&color=6366F1" />
