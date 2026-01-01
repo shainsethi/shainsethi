@@ -25,6 +25,6 @@ const shain = {
   role: "Full Stack Developer",
   experience: "2+ years",
   stack: ["React", "Node.js", "TypeScript", "PostgreSQL"],
-  focus: ["SaaS", "AI automation", "System design"],
+  focus: ["Nextjs", "Java", "DSA"],
   mindset: "Clean code > clever code"
 };
