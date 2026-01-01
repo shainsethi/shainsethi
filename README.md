@@ -7,7 +7,8 @@
 
 <p>
   <!-- <a href="https://shainsethi.github.io">Portfolio</a> • -->
-  <a href="https://www.linkedin.com/in/shain-sethi">LinkedIn</a> •
+  <a href="https://www.linkedin.com/in/shain-sethi">LinkedIn</a> 
+  <!-- • -->
   <!-- <a href="mailto:shainsethi1000@gmail.com">Email</a> -->
 </p>
 
