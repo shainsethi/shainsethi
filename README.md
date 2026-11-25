@@ -18,7 +18,7 @@
 
 ---
 
-## 👨‍💻 About Me
+## About Me
 
 ```ts
 const shain = {
@@ -30,13 +30,13 @@ const shain = {
 };
 ```
 
-## 🛠️ Tech Stack
+## Tech Stack
 
-<p>
-  <img src="https://skillicons.dev/icons?i=react,nextjs,ts,js,redux,nodejs,express,graphql,postgres,mongodb,prisma,docker,githubactions,git,vite,jest&perline=8" alt="React, Next.js, TypeScript, JavaScript, Redux, Node.js, Express, GraphQL, PostgreSQL, MongoDB, Prisma, Docker, GitHub Actions, Git, Vite, Jest" />
+<p align="center">
+  <img width="100%" src="https://skillicons.dev/icons?i=react,nextjs,ts,js,redux,nodejs,express,graphql,postgres,mongodb,prisma,docker,githubactions,git,vite,jest&perline=16" alt="React, Next.js, TypeScript, JavaScript, Redux, Node.js, Express, GraphQL, PostgreSQL, MongoDB, Prisma, Docker, GitHub Actions, Git, Vite, Jest" />
 </p>
 
-## 🐍 Contributions
+## Contributions
 
 <picture>
   <source media="(prefers-color-scheme: dark)" 
