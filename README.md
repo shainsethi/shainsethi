@@ -30,13 +30,6 @@ const shain = {
 };
 ```
 
-## 🚀 Featured Projects
-
-| Project | What it is | Stack | Links |
-|---|---|---|---|
-| **[Oil Drilling Dashboard](https://github.com/shainsethi/Oil-Drilling-Dashboard)** | AI-powered dashboard for drilling data: upload Excel well logs, explore depth charts, and ask a chatbot about the well | Next.js · Recharts · PostgreSQL (Neon) · Prisma · GPT-4o | [Live](https://oil-drilling-dashboard-ntl1.vercel.app/) · [Code](https://github.com/shainsethi/Oil-Drilling-Dashboard) |
-| **[FlowForge](https://github.com/shainsethi/FlowForge)** | Drag-and-drop pipeline builder with a backend that validates the pipeline is a DAG | React · FastAPI · Python | [Live](https://flow-forge-three.vercel.app/) · [Code](https://github.com/shainsethi/FlowForge) |
-
 ## 🛠️ Tech Stack
 
 <p>
